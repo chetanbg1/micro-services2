@@ -6,3 +6,7 @@ Feign Client
 
 Config server
     we can externalize the local configuration of our project
+
+Fault Tolerance
+     
+Security with OKTA   
